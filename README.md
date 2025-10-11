@@ -32,8 +32,6 @@ print.h contains some print output functions.
 
 /data: contains processed datasets.
 
-/index: contains the built index.
-
 ## Compile and Run
 
 // Compile and run global strategy
